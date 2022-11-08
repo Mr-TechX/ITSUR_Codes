@@ -8,10 +8,10 @@ Este repositorio no es mas que una serie de mis apuntes, pero quedaran publicos 
 | PROJECT REFERENCES                       |
 |------------------------------------------|
 | Author: TechX                            |
-|------------------------------------------|
+||
 | Project: ITSUR codes                     |
-|------------------------------------------|
+||
 | Date: 8/Nov/2022                         |
-|------------------------------------------|
+||
 | Copyright: TecnoProjects Security 2022   |
 |------------------------------------------|
