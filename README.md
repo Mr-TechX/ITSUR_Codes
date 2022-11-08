@@ -1,4 +1,4 @@
-# ITSUR Codes <img src="https://scontent.fcyw4-1.fna.fbcdn.net/v/t1.6435-9/65315547_1259434267563628_402042512664952832_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHeKXJkIMzNZefMYvKl0P_KkZyduFaYcjWRnJ24VphyNT5nHRqlvfFqhQvguSrDzfzbaYHAYZFyTchcKPdIzoah&_nc_ohc=tGurRVXI5RQAX9HEJCy&_nc_ht=scontent.fcyw4-1.fna&oh=00_AfDIWjTVgTgtouFwz7mNcB4g6t7ojxhxaGmPxbYo8rwuaA&oe=63924CCB" width="50px">
+# ITSUR Codes <img src="https://sg.com.mx/sites/default/files/styles/570x500/public/2018-05/Logo_ITSUR.jpg?itok=lYg805LD" width="50px">
 
 <img src="https://imgs.search.brave.com/v8EaKlS6Yy7T3z9VGMhe5tTRUwFexR4rNiDlDAMO0_E/rs:fit:768:252:1/g:ce/aHR0cHM6Ly93d3cu/dGlqdWFuYS50ZWNu/bS5teC93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNC8xMS9IZWFk/aW5nLUluZy1zaXN0/ZW1hcy03Njh4MjUy/LnBuZw" width="720px">
 ## Esta es una serie de carpetas con los archivos de practica de codigo desarrollados dentro de la carrera de ingenieria en sistemas computacionales del <a href="http://itsur.edu.mx" tarjet="_blank">ITUSR</a> y serán constantemente subidos nuevos codigos simples de practicas de los temas.
