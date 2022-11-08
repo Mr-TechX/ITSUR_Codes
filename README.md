@@ -5,12 +5,12 @@
 
 Este repositorio no es mas que una serie de mis apuntes, pero quedaran publicos por si son de la utilidad de alguien.
 
-|------------------------------------------|
+
 | Author: TechX                            |
-|------------------------------------------|
+
 | Project: ITSUR codes                     |
-|------------------------------------------|
+
 | Date: 8/Nov/2022                         |
-|------------------------------------------|
+
 | Copyright: TecnoProjects Security 2022   |
 |------------------------------------------|
