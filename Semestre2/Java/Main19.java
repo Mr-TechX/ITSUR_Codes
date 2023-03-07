@@ -1,7 +1,7 @@
 // Librerias
 import java.util.Scanner;
 // Creacion del Main
-public class Main {
+public class Main19 {
 	//Llamada al metodo main
 	public static void main(String[] args) {
 		// Crecion del objeton in con Scanner
