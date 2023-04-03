@@ -1,5 +1,5 @@
 # Datos primitivos C++
-<img src="">
+<img src="https://github.com/Mr-TechX/ITSUR_Codes/blob/main/Herramientas/files/dp.png">
 
 ---
 
