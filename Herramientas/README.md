@@ -1,8 +1,12 @@
-# Datos primitivos C++
+# Menú
+[Datos primitivos C++](#Datos-primitivos-C++)
+
+---
+## Datos primitivos C++
 <img src="https://github.com/Mr-TechX/ITSUR_Codes/blob/main/Herramientas/files/dp.png">
 
 ---
 
-# Tablas ASCII
+## Tablas ASCII
 <img src="https://github.com/Mr-TechX/ITSUR_Codes/blob/main/Herramientas/files/at1.png">
 <img src="https://github.com/Mr-TechX/ITSUR_Codes/blob/main/Herramientas/files/eat.png">
