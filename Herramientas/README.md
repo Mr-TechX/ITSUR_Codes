@@ -1,5 +1,6 @@
 # Menú
-[Datos primitivos C++](#Datos-primitivos-C++)
+[Datos primitivos C++](#datos-primitivos-c++)<br>
+[Tablas ASCII](#tablas-ascii)
 
 ---
 ## Datos primitivos C++
